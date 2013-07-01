@@ -1,0 +1,9 @@
+{
+  "smtpOptions": {
+    "service": "Gmail",
+    "auth": {
+      "user": "noreply@gmail.com",
+      "pass": "password"
+    }
+  }
+}

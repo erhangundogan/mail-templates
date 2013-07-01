@@ -1,0 +1,12 @@
+| Sayın #{locals.name}, #{locals.domain} sitesine hoşgeldiniz.
+| 
+| Üyelik işlemlerinizin tamamlanabilmesi için aşağıda mesajın sonundaki internet adresine tıklayın veya adresi kopyalayıp internet tarayıcınızın adres satırına yapıştırın.
+| 
+| Açılacak sayfada aktivasyon işleminiz tamamlanacaktır. Bu işlemlerden sonra siteye kullanıcı ve şifrenizle giriş yaparak hizmetlerimizden faydalanabilirsiniz.
+| Hesabınız ile ilgili sorularınız için #{locals.supportEmail} adresine e-posta gönderebilirsiniz.
+| İyi günler, iyi çalışmalar dileriz.
+| 
+| 
+=locals.sender
+|
+=locals.link

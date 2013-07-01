@@ -1,0 +1,15 @@
+{
+  "name": "mail-templates",
+  "version": "0.0.1",
+  "description": "SMTP ready nodemailer and email templates",
+  "keywords": ["nodejs", "node.js", "node", "email", "mail", "smtp"],
+  "author": "Erhan Gundogan <erhan@trposta.net>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erhangundogan/mail-templates.git"
+  },
+  "dependencies": {
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}

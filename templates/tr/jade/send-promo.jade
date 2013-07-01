@@ -1,0 +1,8 @@
+span Merhaba.
+p Bu e-posta #{locals.name} tarafından size gönderilmiş bir üyelik davetiyesidir.
+p Aşağıdaki adrese tıklayarak üyelik işlemlerinizi başlatabilirsiniz.
+| İyi günler, iyi çalışmalar dileriz.
+p
+  strong=locals.sender
+p
+  a(href="#{locals.link}")=#{locals.link}

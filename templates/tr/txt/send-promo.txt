@@ -1,0 +1,10 @@
+| Merhaba.
+| 
+| Bu e-posta #{locals.name} tarafından size gönderilmiş bir üyelik davetiyesidir.
+| 
+| Aşağıdaki adrese tıklayarak üyelik işlemlerinizi başlatabilirsiniz.
+| İyi günler, iyi çalışmalar dileriz.
+|
+=locals.sender
+|
+=locals.link
