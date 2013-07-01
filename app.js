@@ -6,7 +6,7 @@ var config = require("./config.json"),
     events = require("events");
     nodemailer = require("nodemailer");
 
-var Mailer = function() {
+var Mailer = exports.Mailer = function() {
   events.EventEmitter.call(this);
   return this;
 };

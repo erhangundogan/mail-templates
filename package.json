@@ -1,6 +1,6 @@
 {
   "name": "mail-templates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SMTP ready nodemailer and email templates",
   "keywords": ["nodejs", "node.js", "node", "email", "mail", "smtp"],
   "author": "Erhan Gundogan <erhan@trposta.net>",
